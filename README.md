@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development <br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with Kubernetes<br>🌱 I’m currently learning Web Development <br>💬 Ask me about Android Development 
+🔭 I’m currently working on Full Stack Android Development <br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with Kubernetes<br>🌱 I’m currently learning Web Development <br>💬 Ask me about Android Development 
 
 
 ## 🌐 Socials:
